@@ -2,7 +2,7 @@
 //  AsteroidsListResponse.swift
 //  Asteroid - Neo Stats
 //
-//  Created by iMac on 07/09/22.
+//  Created by Keyur on 07/09/22.
 //
 import Foundation
 

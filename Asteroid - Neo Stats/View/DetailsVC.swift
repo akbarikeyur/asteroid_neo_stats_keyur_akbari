@@ -2,7 +2,7 @@
 //  DetailsVC.swift
 //  Asteroid - Neo Stats
 //
-//  Created by iMac on 08/09/22.
+//  Created by Keyur on 08/09/22.
 //
 
 import UIKit
