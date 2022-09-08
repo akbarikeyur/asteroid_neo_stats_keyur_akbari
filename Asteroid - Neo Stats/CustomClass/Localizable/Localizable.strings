@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  Asteroid - Neo Stats
+
+  Created by iMac on 07/09/22.
+  
+*/
+
+"start_date" = "Start Date";
+"end_date" = "End Date";
